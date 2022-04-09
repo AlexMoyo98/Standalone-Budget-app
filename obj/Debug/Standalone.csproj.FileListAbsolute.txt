@@ -1,0 +1,7 @@
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\bin\Debug\Standalone.exe.config
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\bin\Debug\Standalone.exe
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\bin\Debug\Standalone.pdb
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\obj\Debug\Standalone.csproj.CoreCompileInputs.cache
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\obj\Debug\Standalone.exe
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\obj\Debug\Standalone.pdb
+C:\Users\Alex Moyo\source\repos\Standalone\Standalone\obj\Debug\Standalone.csprojAssemblyReference.cache
