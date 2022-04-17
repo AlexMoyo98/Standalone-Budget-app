@@ -13,3 +13,6 @@ will start.
 
 This project was individual project.
 This project is under development.
+
+Buy a vehicle feature was added on the console app alone with a delegate to issue out a warning if ever the espenses exceed 75% of the users full income.
+wpf application will be uploaded shortly with a new savings feature.
